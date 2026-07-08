@@ -1,11 +1,15 @@
 # lista-atividade
 
-
+## Array
 ### Atividade 5. 
 - Leia um vetor de 10 posições. Conte e escreva quantos valores pares ele possui.
 ### Atividade 6. 
 - Faça um programa que receba do usuá rio um vetor com 10 elementos. Em seguida,
 ser impresso o maior e o menor elemento do vetor.
+## Matrizez
+### Atividade 24. 
+- Faça um programa que leia dez conjuntos de dois valores, sendo o primeiro o número do aluno e o segundo a sua altura em metros. Encontre o aluno mais baixo e o mais alto. Mostre o nú mero do aluno mais baixo e do mais alto, juntamente com suas alturas.
+
 ## Atividade Extra
 ### Enunciado da Questão
 - Contexto: Um sistema de monitoramento coletou um lote fechado de 60 medições inteiras e precisa apresentar um resumo estatístico da distribuição desses dados.

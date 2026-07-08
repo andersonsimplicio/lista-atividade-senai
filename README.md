@@ -6,7 +6,7 @@
 ### Atividade 6. 
 - Faça um programa que receba do usuá rio um vetor com 10 elementos. Em seguida,
 ser impresso o maior e o menor elemento do vetor.
-## Matrizez
+## Matrizes
 ### Atividade 24. 
 - Faça um programa que leia dez conjuntos de dois valores, sendo o primeiro o número do aluno e o segundo a sua altura em metros. Encontre o aluno mais baixo e o mais alto. Mostre o nú mero do aluno mais baixo e do mais alto, juntamente com suas alturas.
 

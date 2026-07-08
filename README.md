@@ -1,9 +1,11 @@
 # lista-atividade
 
 
-## Atividade 5. 
+### Atividade 5. 
 - Leia um vetor de 10 posições. Conte e escreva quantos valores pares ele possui.
-
+### Atividade 6. 
+- Faça um programa que receba do usuá rio um vetor com 10 elementos. Em seguida,
+ser impresso o maior e o menor elemento do vetor.
 ## Atividade Extra
 ### Enunciado da Questão
 - Contexto: Um sistema de monitoramento coletou um lote fechado de 60 medições inteiras e precisa apresentar um resumo estatístico da distribuição desses dados.

@@ -9,6 +9,8 @@ ser impresso o maior e o menor elemento do vetor.
 ## Matrizes
 ### Atividade 24. 
 - Faça um programa que leia dez conjuntos de dois valores, sendo o primeiro o número do aluno e o segundo a sua altura em metros. Encontre o aluno mais baixo e o mais alto. Mostre o nú mero do aluno mais baixo e do mais alto, juntamente com suas alturas.
+### Atividade 27. 
+- Leia uma matriz 4 x 4, conte e escreva quantos valores maiores que 10 ela possui
 
 ## Atividade Extra
 ### Enunciado da Questão
@@ -27,3 +29,13 @@ Desenvolva um algoritmo que analise esse conjunto de 60 números inteiros e exib
 ```
 9 25.0%
 ```
+
+# Lista - 02 de Atividades de Matriz 
+#### 1) Fazer um programa que leia uma matriz M 10x20 de inteiros. Deve ser impresso:
+<ol type="A">
+    <li>O maior elemento de cada linha da matriz.</li>
+    <li>A média dos elementos de cada coluna.</li>
+    <li>O produto de todos os elementos diferentes de zero.</li>
+    <li>A posição ocupada (linha-coluna) por um elemento cujo valor será lido pelo programa.</li>
+</ol>
+
